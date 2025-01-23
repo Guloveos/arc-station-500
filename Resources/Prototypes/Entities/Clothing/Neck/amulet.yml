@@ -15,3 +15,5 @@
         Slash: 0.99
         Piercing: 0.99
         Caustic: 0.99
+  - type: FactionClothing
+    faction: Flesh

@@ -44,7 +44,7 @@
       soundGunshot: /Audio/Weapons/Guns/Gunshots/Soul.ogg
     - type: NpcFactionMember
       factions:
-        - SimpleHostile
+        - Flesh
     - type: Speech
       speechVerb: Cluwne
     - type: CombatMode

@@ -166,6 +166,23 @@
   - Syndicate
   - SimpleNeutral
   - Mercenary
+  - Flesh
+
+- type: npcFaction
+  id: Flesh
+  hostile:
+  - SimpleHostile
+  - Xeno
+  - Zombie
+  - Dragon
+  - AnimalFriend
+  - PetsNT
+  - Revolutionary
+  - NanoTrasen
+  - Syndicate
+  - SimpleNeutral
+  - Mercenary
+  - Hatesall
 
 
 
