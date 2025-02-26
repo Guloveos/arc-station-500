@@ -7,9 +7,16 @@
     - PetsNT
     - Zombie
     - Revolutionary
+# Arcchange start
     - Mercenary
     - NTPDbase
     - Hatesall
+# Arcchange end
+    - GladiabotFFA
+    - GladiabotRed
+    - GladiabotGreen
+    - GladiabotBlue
+    - GladiabotYellow
 
 - type: npcFaction
   id: NanoTrasen
@@ -19,8 +26,11 @@
   - Xeno
   - Zombie
   - Revolutionary
+# Arcchange start
   - Mercenary
   - Hatesall
+# Arcchange end
+  - Dragon
 
 - type: npcFaction
   id: Mouse
@@ -51,9 +61,16 @@
   - Zombie
   - Revolutionary
   - GeometerOfBlood
+# Arcchange start
   - Mercenary
   - NTPDbase
   - Hatesall
+# Arcchange end
+  - GladiabotFFA
+  - GladiabotRed
+  - GladiabotGreen
+  - GladiabotBlue
+  - GladiabotYellow
 
 - type: npcFaction
   id: SimpleNeutral
@@ -77,9 +94,16 @@
   - PetsNT
   - Zombie
   - Revolutionary
+# Arcchange start
   - Mercenary
   - NTPDbase
   - Hatesall
+# Arcchange end
+  - GladiabotFFA
+  - GladiabotRed
+  - GladiabotGreen
+  - GladiabotBlue
+  - GladiabotYellow
 
 - type: npcFaction
   id: Zombie
@@ -91,9 +115,16 @@
   - Passive
   - PetsNT
   - Revolutionary
+# Arcchange start
   - Mercenary
   - NTPDbase
   - Hatesall
+# Arcchange end
+  - GladiabotFFA
+  - GladiabotRed
+  - GladiabotGreen
+  - GladiabotBlue
+  - GladiabotYellow
 
 - type: npcFaction
   id: Revolutionary
@@ -120,6 +151,9 @@
 
 - type: npcFaction
   id: Cat
+  hostile:
+  - Mouse
+  - SimpleHostile
 
 - type: npcFaction
   id: Birb
@@ -196,6 +230,10 @@
     - GladiabotGreen
     - GladiabotBlue
     - GladiabotYellow
+    - SimpleHostile
+    - Xeno
+    - Zombie
+    - Dragon
 
 - type: npcFaction
   id: GladiabotRed
@@ -204,6 +242,10 @@
     - GladiabotGreen
     - GladiabotBlue
     - GladiabotYellow
+    - SimpleHostile
+    - Xeno
+    - Zombie
+    - Dragon
 
 - type: npcFaction
   id: GladiabotGreen
@@ -212,6 +254,10 @@
     - GladiabotRed
     - GladiabotBlue
     - GladiabotYellow
+    - SimpleHostile
+    - Xeno
+    - Zombie
+    - Dragon
 
 - type: npcFaction
   id: GladiabotBlue
@@ -220,6 +266,10 @@
     - GladiabotRed
     - GladiabotGreen
     - GladiabotYellow
+    - SimpleHostile
+    - Xeno
+    - Zombie
+    - Dragon
 
 - type: npcFaction
   id: GladiabotYellow
@@ -228,3 +278,7 @@
     - GladiabotRed
     - GladiabotGreen
     - GladiabotBlue
+    - SimpleHostile
+    - Xeno
+    - Zombie
+    - Dragon
